@@ -50,7 +50,7 @@ def update():
 def overspeed():
     update_script = '''SELECT * INTO over
                         FROM vessels 
-                        WHERE speed > 10'''
+                        WHERE speed > 13'''
     curr.execute(update_script)
     conn.commit()
 
