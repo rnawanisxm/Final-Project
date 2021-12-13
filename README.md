@@ -3,6 +3,8 @@ AIS data was read from nmea-sample.txt using decode.py which is also connected t
 
 The index.html file was placed inside a tomcat server that hosted my geoserver. For more information on how to configure geoserver with tomcat please watch the first 10 minutes of this video: [1]. 
 
+Video: https://www.youtube.com/watch?v=zWWM_TQI41I
+
 
 # Motivation:
 
