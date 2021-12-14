@@ -8,7 +8,7 @@ Video: https://www.youtube.com/watch?v=zWWM_TQI41I
 
 # Motivation:
 
-My interdisciplinary project required me to research a topic that combined both aspects of Geography and Computer Science to …
+My interdisciplinary project required me to research a topic that combined both aspects of Geography and Computer Science.
 My goal was to find a way to solve a problem using geospatial data by meeting a client’s requirements similar to a real life business example. I ended up taking the approach of creating a web based application to meet these needs, specifically trying to find out how to use AIS data to show real time information, Originally the web based application had a undefined topic so for the first few months I focused on the backend of understanding how a WebGIS application works and what it needs. Once a topic was defined, it became easier to define a specific scope for my project and the limitations I would encounter on the way.
 
 # Methodology:
